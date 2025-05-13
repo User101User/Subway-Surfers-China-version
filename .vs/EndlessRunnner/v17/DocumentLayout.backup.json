@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stefa\\OneDrive\\Desktop\\Unity Games\\EndlessRunnner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6F5125-82FD-F228-22E6-A5E02C58931A}|Assembly-CSharp.csproj|c:\\users\\stefa\\onedrive\\desktop\\unity games\\endlessrunnner\\assets\\scripts\\boostuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6F5125-82FD-F228-22E6-A5E02C58931A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boostuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6F5125-82FD-F228-22E6-A5E02C58931A}|Assembly-CSharp.csproj|C:\\Users\\stefa\\OneDrive\\Desktop\\Unity Games\\EndlessRunnner\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6F5125-82FD-F228-22E6-A5E02C58931A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6F5125-82FD-F228-22E6-A5E02C58931A}|Assembly-CSharp.csproj|C:\\Users\\stefa\\OneDrive\\Desktop\\Unity Games\\EndlessRunnner\\assets\\scripts\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6F5125-82FD-F228-22E6-A5E02C58931A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6F5125-82FD-F228-22E6-A5E02C58931A}|Assembly-CSharp.csproj|C:\\Users\\stefa\\OneDrive\\Desktop\\Unity Games\\EndlessRunnner\\assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6F5125-82FD-F228-22E6-A5E02C58931A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6F5125-82FD-F228-22E6-A5E02C58931A}|Assembly-CSharp.csproj|C:\\Users\\stefa\\OneDrive\\Desktop\\Unity Games\\EndlessRunnner\\assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6F5125-82FD-F228-22E6-A5E02C58931A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6F5125-82FD-F228-22E6-A5E02C58931A}|Assembly-CSharp.csproj|C:\\Users\\stefa\\OneDrive\\Desktop\\Unity Games\\EndlessRunnner\\assets\\scripts\\collectablecontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6F5125-82FD-F228-22E6-A5E02C58931A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectablecontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6F5125-82FD-F228-22E6-A5E02C58931A}|Assembly-CSharp.csproj|C:\\Users\\stefa\\OneDrive\\Desktop\\Unity Games\\EndlessRunnner\\assets\\scripts\\generatelevels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6F5125-82FD-F228-22E6-A5E02C58931A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\generatelevels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6F5125-82FD-F228-22E6-A5E02C58931A}|Assembly-CSharp.csproj|C:\\Users\\stefa\\OneDrive\\Desktop\\Unity Games\\EndlessRunnner\\assets\\scripts\\playerdistance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6F5125-82FD-F228-22E6-A5E02C58931A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerdistance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BoostUIManager.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Desktop\\Unity Games\\EndlessRunnner\\Assets\\Scripts\\BoostUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BoostUIManager.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Desktop\\Unity Games\\EndlessRunnner\\Assets\\Scripts\\BoostUIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BoostUIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:38:52.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SceneChanger.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Desktop\\Unity Games\\EndlessRunnner\\Assets\\Scripts\\SceneChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneChanger.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Desktop\\Unity Games\\EndlessRunnner\\Assets\\Scripts\\SceneChanger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneChanger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:52:49.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CollectableControll.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Desktop\\Unity Games\\EndlessRunnner\\Assets\\Scripts\\CollectableControll.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CollectableControll.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Desktop\\Unity Games\\EndlessRunnner\\Assets\\Scripts\\CollectableControll.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CollectableControll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:54:42.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Desktop\\Unity Games\\EndlessRunnner\\Assets\\Scripts\\Coin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Coin.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Desktop\\Unity Games\\EndlessRunnner\\Assets\\Scripts\\Coin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Coin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:39:52.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Desktop\\Unity Games\\EndlessRunnner\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreManager.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Desktop\\Unity Games\\EndlessRunnner\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:38:44.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerDistance.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Desktop\\Unity Games\\EndlessRunnner\\Assets\\Scripts\\PlayerDistance.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerDistance.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Desktop\\Unity Games\\EndlessRunnner\\Assets\\Scripts\\PlayerDistance.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerDistance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:53:04.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenerateLevels.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Desktop\\Unity Games\\EndlessRunnner\\Assets\\Scripts\\GenerateLevels.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GenerateLevels.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Desktop\\Unity Games\\EndlessRunnner\\Assets\\Scripts\\GenerateLevels.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GenerateLevels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:55:15.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Desktop\\Unity Games\\EndlessRunnner\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Desktop\\Unity Games\\EndlessRunnner\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:45:30.982Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
